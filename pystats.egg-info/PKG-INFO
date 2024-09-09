@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: pystats
+Version: 0.1
+Summary: A package for SMA crossover, MACD, and Heiken Ashi strategies
+Home-page: https://github.com/hevardhan/pystats
+Author: Hevardhan
+Author-email: hevardhan2004@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Trading Strategies
+
+This package contains strategies for:
+
+- Simple Moving Average (SMA) crossover
+- Moving Average Convergence Divergence (MACD)
+- Heiken Ashi candlestick calculations
+
+## Installation
+
+You can install this package via pip:
+
+```bash
+pip install trading_strategies
